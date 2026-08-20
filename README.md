@@ -8,6 +8,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
 | ------- |
@@ -17,8 +18,10 @@
 | ------- |
 | [0048-rotate-image](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
