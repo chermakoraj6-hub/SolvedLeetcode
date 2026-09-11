@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0059-spiral-matrix-ii) |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
