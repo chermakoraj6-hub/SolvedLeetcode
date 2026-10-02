@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0059-spiral-matrix-ii) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
