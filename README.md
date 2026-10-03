@@ -13,6 +13,7 @@
 | [0054-spiral-matrix](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/chermakoraj6-hub/SolvedLeetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
